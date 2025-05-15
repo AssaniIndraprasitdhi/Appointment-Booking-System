@@ -1,5 +1,5 @@
 # Appointment-Booking-System
-🏗️ โครงสร้างระบบที่แนะนำ
+🏗️ โครงสร้างระบบ
 
 📦 Backend (ASP.NET Core C#)
 
